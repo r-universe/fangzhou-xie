@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Randomuseragent",
+    "oncran": true
+  },
+  {
+    "package": "rethnicity",
+    "oncran": true
+  },
+  {
+    "package": "xutils",
+    "oncran": true
+  }
+]
