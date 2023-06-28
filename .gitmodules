@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Randomuseragent"]
 	path = Randomuseragent
 	url = https://github.com/fangzhou-xie/randomuseragent
-	shallow = true
-	registered = true
 [submodule "rethnicity"]
 	path = rethnicity
 	url = https://github.com/fangzhou-xie/rethnicity
-	shallow = true
-	registered = true
 [submodule "xutils"]
 	path = xutils
 	url = https://github.com/fangzhou-xie/xutils
-	shallow = true
-	registered = true
