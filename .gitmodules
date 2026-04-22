@@ -8,6 +8,9 @@
 [submodule "rethnicity"]
 	path = rethnicity
 	url = https://github.com/fangzhou-xie/rethnicity
+[submodule "rwig"]
+	path = rwig
+	url = https://github.com/fangzhou-xie/rwig
 [submodule "xutils"]
 	path = xutils
 	url = https://github.com/fangzhou-xie/xutils
